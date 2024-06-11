@@ -5,16 +5,16 @@ Welcome to the Virtual Assistant project! This is a basic Python-based assistant
 # Introduction
 This Virtual Assistant can perform a wide range of tasks including speaking, listening, fetching information from Wikipedia, telling jokes, playing music, and more. It leverages several Python libraries to interact with the user and the internet seamlessly.
 
-Libraries used for this project are: 
-Pyttsx3
-Speech_Recognition
-Datetime
-Wikipedia
-WebBroswer
-Pyjokes
-Pywhatkit
-Requests
-Json
-Wolframalpha
-Pygame
-OS
+# Libraries used for this project are: 
+- Pyttsx3
+- Speech_Recognition
+- Datetime
+- Wikipedia
+- WebBroswer
+- Pyjokes
+- Pywhatkit
+- Requests
+- Json
+- Wolframalpha
+- Pygame
+- OS
